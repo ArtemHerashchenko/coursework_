@@ -1,0 +1,27 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/testbench/test/test_rec1/rom_1
+// format=hex addressradix=h dataradix=h version=1.0 wordsperline=1 noaddress
+48
+45
+52
+41
+53
+48
+43
+48
+45
+4e
+4b
+4f
+5f
+41
+52
+54
+45
+4d
+5f
+44
+4b
+39
+31
+2b
